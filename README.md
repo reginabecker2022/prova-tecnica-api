@@ -194,3 +194,7 @@ Remove uma simulação previamente cadastrada pelo seu ID.
  ┣ 📜README.md
  ┣ 📜pom.xml
 ```
+
+## Wiki
+
+Visite a Wiki para navegar no projeto da API "Restricoes" e "Simulacoes"
