@@ -191,8 +191,9 @@ Remove uma simulação previamente cadastrada pelo seu ID.
  ┃ ┃ ┣ 📂resources
  ┃ ┃ ┃ ┗ 📜allure.properties
  ┃ ┃ ┃ ┗ 📜categories.json
- ┣ 📜README.md
- ┣ 📜pom.xml
+┣ 📜.gitignore 
+┣ 📜pom.xml 
+┣ 📜README.md 
 ```
 
 ## Wiki
