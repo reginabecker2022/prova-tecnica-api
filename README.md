@@ -188,9 +188,6 @@ Remove uma simulação previamente cadastrada pelo seu ID.
  ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PutSimulacoesTest.java
  ┃ ┃ ┃ ┃	┃  ┃ ┣📂utils
  ┃ ┃ ┃ ┃	┃  ┃ ┣📜Utils.java
- ┃ ┃ ┣ 📂resources
- ┃ ┃ ┃ ┗ 📜allure.properties
- ┃ ┃ ┃ ┗ 📜categories.json
 ┣ 📜.gitignore 
 ┣ 📜pom.xml 
 ┣ 📜README.md 
